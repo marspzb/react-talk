@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import PortfolioList from './components/portfolio-list/portfolio-list'
 import UseCaseMenu from './components/use-case-components'
 import { Provider } from 'react-redux'
 import ChessAppReducer from './reducers/reducers.js'
